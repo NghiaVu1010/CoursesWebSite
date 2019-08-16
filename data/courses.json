@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "dept": "CompSci",
+        "courseNum": "101",
+        "courseName": "HTML5 and CSS3",
+        "instructor": "Rob",
+        "startDate": "July 8",
+        "numDays": "10"
+    },
+    {
+        "id": 2,
+        "dept": "CompSci",
+        "courseNum": "102",
+        "courseName": "JavaScript",
+        "instructor": "Dana",
+        "startDate": "July 22",
+        "numDays": "35"
+    },
+    {
+        "id": 3,
+        "dept": "CompSci",
+        "courseNum": 201,
+        "courseName": "More Things",
+        "instructor": "Rob",
+        "startDate": "Sep 9",
+        "numDays": "15"
+    },
+    {
+        "id": 4,
+        "dept": "Math",
+        "courseNum": "101",
+        "courseName": "Algebra",
+        "instructor": "Michelle",
+        "startDate": "June 18",
+        "numDays": "10"
+    },
+    {
+        "id": 5,
+        "dept": "Math",
+        "courseNum": "301",
+        "courseName": "Calculus",
+        "instructor": "Dana",
+        "startDate": "November 11",
+        "numDays": "5"
+    },
+    {
+        "id": 6,
+        "dept": "CompSci",
+        "courseNum": "201",
+        "courseName": "Building Robots",
+        "instructor": "Elisha",
+        "startDate": "December 10",
+        "numDays": "5"
+    },
+    {
+        "id": 7,
+        "dept": "English",
+        "courseNum": "104",
+        "courseName": "Literature",
+        "instructor": "Steve",
+        "startDate": "October 8",
+        "numDays": "25"
+    },
+    {
+        "id": 8,
+        "dept": "Science",
+        "courseNum": "201",
+        "courseName": "Physics",
+        "instructor": "John",
+        "startDate": "March 18",
+        "numDays": "10"
+    },
+    {
+        "id": 9,
+        "dept": "History",
+        "courseNum": "121",
+        "courseName": "Art of War",
+        "instructor": "Cori",
+        "startDate": "January 16",
+        "numDays": "15"
+    },
+    {
+        "id": 10,
+        "dept": "Japanese",
+        "courseNum": "101",
+        "courseName": "Basic Japanese",
+        "instructor": "Neo",
+        "startDate": "September 22",
+        "numDays": "20"
+    },
+    {
+        "id": 11,
+        "dept": "English",
+        "courseNum": "201",
+        "courseName": "America",
+        "instructor": "Dana",
+        "startDate": "September 11",
+        "numDays": "15"
+    }
+]
